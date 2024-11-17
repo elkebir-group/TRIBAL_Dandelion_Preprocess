@@ -1,5 +1,8 @@
-Prepare single-cell BCR/TCR data from the 10x Genomics 5’ solution for TRIBAL analysis.
+Prepare single-cell BCR/TCR data from the 10x Genomics 5’ solution for use in TRIBAL analysis.
 
+TRIBAL (TRee Inference of B cell clonAl Lineages) is a method designed to infer B cell lineage trees from single-cell RNA sequencing data. Access TRIBAL [here](https://github.com/elkebir-group/TRIBAL).
+
+Contributors to the repository: Derek Reiman, Leah Weber, Xinyu Gu
 
 ## create env
 ```bash

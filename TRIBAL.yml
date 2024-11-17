@@ -1,4 +1,4 @@
-name: TRIBAL
+name: TRIBAL_preprocess
 channels:
   - conda-forge
   - bioconda
@@ -24,4 +24,4 @@ dependencies:
       - tqdm
       - scrublet
       - annoy<=1.16.3
-prefix: $HOME/miniconda3/envs/TRIBAL
+prefix: $HOME/miniconda3/envs/TRIBAL_preprocess
